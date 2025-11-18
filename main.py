@@ -35,7 +35,7 @@ messages = {
 PHP_PORT = random.randint(8000,8999)
 PHP_FOLDER = "./"  
 FOLDER_TO_WATCH = "uploads"
-INDEX = "main.html"
+INDEX = "index.html"
 TOKEN_FILE = "token.txt"
 # -------------------------------------------------------------------
 
@@ -204,4 +204,5 @@ if __name__ == "__main__":
         php_proc.terminate()
         ngrok_proc.terminate()
         observer.stop()
+
         observer.join()
