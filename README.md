@@ -19,4 +19,14 @@ Please install these prerequisites before running
   - Linux: sudo apt install php
   - Termux: pkg install php
  
+- Install Python (py)
+
+  - Windows: <a href="https://www.python.org/downloads/release/python-3120/">Download
+  - Linux: sudo apt install python
+  - Termux: pkg install python
+ 
+
+# ScreenShot
+
+<img src="https://github.com/user-attachments/assets/957246ed-f465-4a08-bb98-30f9f07c5870">
 
